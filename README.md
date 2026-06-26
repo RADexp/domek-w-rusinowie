@@ -30,4 +30,3 @@ Otwórz `index.html` w przeglądarce — działa też bez serwera. Ewentualnie `
 ## Uwagi
 
 - Domena docelowa w meta/OG: `https://domekwrusinowie.pl`. Po zmianie domeny zaktualizuj adresy w `<head>` `index.html`.
-- Kontakt na stronie: tel. 505 640 461, e-mail domek.w.rusinowie@gmail.com.
